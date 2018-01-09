@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Football Test</string>
+    <string name="league.details.button">Table</string>
+    <string name="command.details.button">Show players</string>
+    <string name="matches.statistic">Wins: %d Draws: %d Looses: %d</string>
+    <string name="league.profile.caption">League caption : %s</string>
+    <string name="league.profile.league">League name : %s</string>
+    <string name="league.profile.year">League year : %s</string>
+    <string name="league.profile.matchdays.count">Matchdays count : %d</string>
+    <string name="league.profile.matchdays.current">Current matchday : %d</string>
+    <string name="league.profile.games.count">Games : %d</string>
+    <string name="command.players.error.empty.list">Server doesnt provide  list of players!</string>
+
+    <string name="error.server.default">Something happened with server!</string>
+    <string name="error.no.internet">Please check your internet connection!</string>
+    <string name="error.no.reason">Something happened with client, we know about it, and fix it ASAP!</string>
+</resources>
